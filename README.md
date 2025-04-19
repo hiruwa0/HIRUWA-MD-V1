@@ -62,11 +62,11 @@
 ### Thank You Dear
 
 > DEVELOPER OF HiRUWA-MD 
-- [HIRUWA EDITZ - FB](https://github.com/techlord01)
-- Creater and Owner Of LITE-MD
+- [HIRUWA EDITZ - Tg]((https://t.me/hiruwaeditz))
+- Creater and Owner Of HiRUWA-MD
 
 > HiRUWA-MD Helper
-- [HiRUWA EDITZ - WA ](https://github.com/kingmalvn)
+- [HiRUWA EDITZ - WA ](wa.me/94704349801)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
