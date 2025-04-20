@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['94740482244']
+  const ownerNumber = ['94704349801']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -73,7 +73,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const prefix = "LUCIFER-MD~";
+    const prefix = "HIRUWA-MD~";
     
     if (config.SESSION_ID.startsWith(prefix)) {
         try {
