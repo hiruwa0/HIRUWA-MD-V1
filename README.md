@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-Simpe Best Whatsapp Bot Created By HiRUWA EDITZ
+Simpe Best Whatsapp Bot Created By HiRUWA MD
 
 
 <div class = "repo" align = "center">
