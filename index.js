@@ -73,7 +73,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const prefix = "LUCIFER-MD~";
+    const prefix = "HIRUWA-MD~";
     
     if (config.SESSION_ID.startsWith(prefix)) {
         try {
@@ -92,7 +92,7 @@ async function downloadSessionData() {
             return false;
         }
     } else {
-        console.error('❌ SESSION_ID must start with "HiRUWA-MD~" prefix!');
+        console.error('❌ SESSION_ID must start with "HIRUWA-MD~" prefix!');
         return false;
     }
 }
