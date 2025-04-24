@@ -318,7 +318,7 @@ const port = process.env.PORT || 9090;
       }
   }        
   //==========WORKTYPE============ 
-  if(!isOwner && config.MODE === "private") return
+  if(!isOwner && config.MODE === "public") return
   if(!isOwner && isGroup && config.MODE === "inbox") return
   if(!isOwner && !isGroup && config.MODE === "groups") return
    
